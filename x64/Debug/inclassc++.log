@@ -1,4 +1,6 @@
 ﻿  inclassc++.cpp
+C:\Users\markg\source\repos\inclassc++\inclassc++\inclassc++.cpp(125,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\markg\source\repos\inclassc++\inclassc++\inclassc++.cpp(133,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   inclassc++.vcxproj -> C:\Users\markg\source\repos\inclassc++\x64\Debug\inclassc++.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
